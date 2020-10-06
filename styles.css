@@ -1,6 +1,6 @@
 body{
   font-family: 'Be Vietnam', sans-serif;
-  background-image: url("C:/Users/Lenovo/Desktop/Web Development/manage-landing-page-master/images/bg-tablet-pattern.svg");
+  background-image: url("https://ajyamkar.github.io/images/bg-tablet-pattern.svg");
   background-repeat:no-repeat;
   background-position: 3rem -1rem;
   background-size: contain;
@@ -146,7 +146,7 @@ ul.navbar-nav a:hover {
     background: orange;
     padding: 13% 25%;
     margin-top: 16%;
-    background-image: url("C:/Users/Lenovo/Desktop/Web Development/manage-landing-page-master/images/bg-simplify-section-mobile.svg");
+    background-image: url("https://ajyamkar.github.io/images/bg-simplify-section-mobile.svg");
     background-repeat: no-repeat;
     background-size: contain;
   }
